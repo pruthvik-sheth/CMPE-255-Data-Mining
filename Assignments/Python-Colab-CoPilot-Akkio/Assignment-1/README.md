@@ -9,3 +9,4 @@ This assignment involved implementing the code from Derek Banas' Python tutorial
 3. Explored and implemented advanced Colab features.
 
 ## Colab Link
+https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/Python-Colab-CoPilot-Akkio/Assignment-1/CMPE_255_Data_Mining_Assignment_1.ipynb
