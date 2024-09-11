@@ -38,7 +38,7 @@ https://youtu.be/Qr7uhzE8_4A
    ```
 4. Run the Flask application:
    ```
-   python app.py
+   python server.py
    ```
 
 ### Frontend Setup
