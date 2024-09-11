@@ -21,7 +21,7 @@ https://youtu.be/Qr7uhzE8_4A
 ### Backend Setup
 1. Navigate to the backend folder:
    ```
-   cd path/to/backend
+   cd ./backend
    ```
 2. Activate the virtual environment:
    - On Windows:
