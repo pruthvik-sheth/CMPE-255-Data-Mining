@@ -1,4 +1,10 @@
-### Colab Links:
+# Assignment: LOW CODE ASSIGNMENTS PART 2 - pycaret
+
+This repository contains my implementation of various data mining tasks using PyCaret, a low-code machine learning library in Python. Each task is implemented in a separate Google Colab notebook, with accompanying video tutorials explaining the process and results.
+
+### Notebooks:
+
+Here are the links to the Google Colab notebooks for each task:
 
 Binary Classification: https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/PyCaret/1_PyCaret_Binary_Classification.ipynb
 
@@ -31,6 +37,8 @@ Gradio Bank: https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Da
 
 
 ### Demo Links:
+
+I have created video demos explaining each Colab notebook. The videos can be found at the following links:
 
 Binary Classification: https://youtu.be/f_2t19Nfmuc
 
