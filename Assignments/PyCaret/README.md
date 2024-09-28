@@ -58,4 +58,4 @@ Time Series Forecasting - Univariate with Exogenous Variables: https://youtu.be/
 
 Gradio AutoMPG: https://youtu.be/Pdv_gIA0-Nk
 
-Gradio Bank: https://youtu.be/Pdv_gIA0-Nk
+Gradio Bank: https://youtu.be/59QD8VXLcRU
