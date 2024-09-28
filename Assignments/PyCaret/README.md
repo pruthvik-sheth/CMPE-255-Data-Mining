@@ -4,7 +4,7 @@ This repository contains my implementation of various data mining tasks using Py
 
 ## Notebooks and Demo Videos
 
-| Task                           | Google Colab  | Video Tutorial  |
+| Task                           | Google Colab  | Demo |
 |---------------------------------|---------------|-----------------|
 | Binary Classification           | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/PyCaret/1_PyCaret_Binary_Classification.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/f_2t19Nfmuc) |
 | MultiClass Classification       | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/PyCaret/2_PyCaret_Multiclass_Classification.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/bYkuz4L079s) |
