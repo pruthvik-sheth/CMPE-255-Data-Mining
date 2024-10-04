@@ -19,7 +19,7 @@ The dataset contains various health-related features such as age, cholesterol le
 7. **Sample Prediction**: Perform a sample prediction to demonstrate how the trained model predicts heart attack risk for a single patient.
 
 ### Colab Notebook:
-You can run the complete project using this [Colab notebook](#).
+You can run the complete project using this [Colab notebook](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/tree/main/Assignments/AI_To_Do_Data_Science).
 
 ### Medium Article:
 A detailed explanation of the project can be found in this [Medium article](https://medium.com/@pns00911/predicting-heart-attack-risk-using-gradient-boosting-a-comprehensive-data-science-workflow-9b1068d66e1b).
