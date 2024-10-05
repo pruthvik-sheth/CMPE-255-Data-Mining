@@ -18,6 +18,9 @@ The dataset contains various health-related features such as age, cholesterol le
 6. **Model Evaluation**: Evaluate the model on the test set using classification metrics like precision, recall, and F1-score to measure its performance.
 7. **Sample Prediction**: Perform a sample prediction to demonstrate how the trained model predicts heart attack risk for a single patient.
 
+### ChatGPT session link:
+You can find the entire conversation by following this link [ChatGPT Session](https://chatgpt.com/share/66ffae15-a588-8004-ba57-5483b060878d).
+
 ### Colab Notebook:
 You can run the complete project using this [Colab notebook](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/AI_To_Do_Data_Science/Heart_Attack_Prediction.ipynb).
 
