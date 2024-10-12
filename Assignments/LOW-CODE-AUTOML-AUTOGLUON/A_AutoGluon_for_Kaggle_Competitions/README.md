@@ -3,13 +3,8 @@
 This folder contains tutorials on using AutoGluon for Kaggle competitions, specifically on IEEE Fraud Detection and California House Price Prediction.
 
 ## Notebooks
-
-1. **IEEE Kaggle Competition**  
-   Colab Link: [Open in Colab](https://colab.research.google.com/github/autogluon/autogluon/blob/stable/docs/tutorials/tabular/advanced/tabular-kaggle.ipynb)  
-   Video Demo: [YouTube Demo Link]  
-   Description: This notebook demonstrates the use of AutoGluon for fraud detection on a Kaggle dataset, focusing on advanced tabular data processing and classification.
-
-2. **California House Prediction**  
-   Colab Link: [Open in Colab](https://colab.research.google.com/github/autogluon/autogluon/blob/stable/docs/tutorials/tabular/advanced/tabular-kaggle.ipynb)  
-   Video Demo: [YouTube Demo Link]  
-   Description: This notebook focuses on predicting California house prices using AutoGluon’s tabular prediction capabilities.
+   
+| Task                           | Google Colab  | Demo |
+|---------------------------------|---------------|-----------------|
+| IEEE Kaggle Competition           | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/LOW-CODE-AUTOML-AUTOGLUON/A_AutoGluon_for_Kaggle_Competitions/A_1_IEEE_Kaggle_Competition.ipynb) | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/f_2t19Nfmuc) |
+| California House Prediction       | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/LOW-CODE-AUTOML-AUTOGLUON/A_AutoGluon_for_Kaggle_Competitions/A_2_California_House_Prediction.ipynb)  | [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/bYkuz4L079s) |
