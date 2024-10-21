@@ -1,8 +1,3 @@
-# CRISP-DM SEMMA AND KDD
-
-
-# README.md
-
 ## Assignment: Data Science Methodologies - CRISP-DM, SEMMA, and KDD
 
 ### Overview
