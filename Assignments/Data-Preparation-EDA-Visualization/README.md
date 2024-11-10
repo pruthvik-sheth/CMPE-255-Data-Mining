@@ -1,13 +1,13 @@
-# Data Processing and Modeling Assignment
+# Data Processing and Modeling
 
 This repository contains solutions for a data processing and modeling assignment, involving two Kaggle datasets: one tabular and one time series. Each dataset undergoes detailed EDA, data cleaning, clustering, anomaly detection, and machine learning model building using AutoML.
 
 ## Structure
 
 ```
-├── Tabular_Dataset/               # Tabular dataset analysis
+├── Task-1/               # Tabular dataset analysis
 │   └── Tabular_Dataset.ipynb             # Colab for EDA, processing, and modeling
-├── TimeSeries_Dataset/            # Time series dataset analysis
+├── Task-2/            # Time series dataset analysis
 │   └── Time_Series_Dataset.ipynb             # Colab for EDA, processing, and modeling
 └── README.md                      # This README file
 ```
