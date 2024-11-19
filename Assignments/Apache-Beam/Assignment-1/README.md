@@ -1,1 +1,18 @@
-## Assignment: 1
+## **Assignment 1: Complete EDA Using D3.js**
+
+### **Overview**
+
+This assignment demonstrates a complete EDA using the Earthquake dataset from Kaggle. Advanced **D3.js visualizations** are implemented to provide deep insights into the data, including scatter plots, tooltips, legends, and animations.
+
+### **Deliverables**
+
+- **Dataset**: Earthquake Dataset ([Kaggle Link](https://www.kaggle.com/datasets/usgs/earthquake-database))
+- **Visualizations**:
+  - Magnitude vs. Depth Scatter Plot
+  - Animated Time-based Visualization
+  - Tooltip-Enhanced Scatter Plot
+
+### **Links**
+
+- **YouTube Demo**: [Watch Demo Here](https://youtube.com/your-demo-link)
+- **Colab Notebook**: [View Colab Here](https://colab.research.google.com/your-colab-link)
