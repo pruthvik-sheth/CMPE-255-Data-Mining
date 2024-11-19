@@ -24,4 +24,4 @@ This assignment demonstrates the key features of **Apache Beam** using Python:
 ### **Links**
 
 - **YouTube Demo**: [Watch Demo Here](https://youtube.com/your-demo-link)
-- **Colab Notebook**: [View Colab Here](https://colab.research.google.com/your-colab-link)
+- **Colab Notebook**: [View Colab Here](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/Apache-Beam/Assignment-3/Apache_Beam_Demonstration.ipynb)
