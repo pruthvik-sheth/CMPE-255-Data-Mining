@@ -26,8 +26,7 @@ This repository demonstrates various dimensionality reduction techniques using b
 
 Each subtask is placed in a separate folder:
 
-- `image-dataset/`: Contains examples of dimensionality reduction applied to image datasets.
-- `tabular-dataset/`: Contains examples of dimensionality reduction applied to tabular datasets.
+- `image/`: Contains examples of dimensionality reduction applied to image datasets.
+- `tabular/`: Contains examples of dimensionality reduction applied to tabular datasets.
 - `databricks/`: Contains implementations of dimensionality reduction techniques in Databricks.
 - `visualizations/`: Contains resources for interactive visualizations and visualization tips.
-- `results-and-commentary/`: Includes a summary of results and a detailed comparison table.
