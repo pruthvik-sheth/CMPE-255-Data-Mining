@@ -10,7 +10,7 @@
 
 ### 1. Medium Article
 
-- **Link:** [Medium Article](#)
+- **Link:** [Medium Article](https://medium.com/@pns00911/distributional-reduction-a-novel-framework-unifying-dimensionality-reduction-and-clustering-0a5b3430d0bf)
 - **Overview:** The Medium article summarizes the research paper's key contributions, focusing on the architecture, methodology, ablation studies, metrics, and experimental results. It also includes visualizations to enhance understanding.
 
 ### 2. Slide Presentation

@@ -29,4 +29,3 @@ Each subtask is placed in a separate folder:
 - `image/`: Contains examples of dimensionality reduction applied to image datasets.
 - `tabular/`: Contains examples of dimensionality reduction applied to tabular datasets.
 - `databricks/`: Contains implementations of dimensionality reduction techniques in Databricks.
-- `visualizations/`: Contains resources for interactive visualizations and visualization tips.
