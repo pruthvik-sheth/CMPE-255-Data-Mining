@@ -2,5 +2,5 @@
 
 Applied dimensionality reduction techniques on medical datasets, demonstrating the effectiveness of various methods on structured data. Includes interactive visualizations, performance metrics, and comparative analysis of how different techniques perform on tabular medical data.
 
-- Colab Link: [Colab Notebook](https://medium.com/@pns00911/distributional-reduction-a-novel-framework-unifying-dimensionality-reduction-and-clustering-0a5b3430d0bf)
-- Video Demo: [Video Link](https://medium.com/@pns00911/distributional-reduction-a-novel-framework-unifying-dimensionality-reduction-and-clustering-0a5b3430d0bf)
+- Colab Link: [Colab Notebook](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/Dimensionality-Reduction/tabular/Dimensionality_Reduction_Tabular_Dataset.ipynb)
+- Video Demo: [Video Link](https://youtube.com/your-demo-link)
