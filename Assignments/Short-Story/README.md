@@ -15,10 +15,10 @@
 
 ### 2. Slide Presentation
 
-- **Link:** [Slideshare Presentation](https://www.slideshare.net/slideshow/distribution-reduction-unifying-dimensionality-reduction-and-clustering/274044976)
+- **Link:** [Slideshare Presentation](https://www.slideshare.net/slideshow/distributional-reduction-unifying-dimensionality-reduction-and-clustering/274045513)
 - **Overview:** A concise presentation covering the core ideas of the research, designed for a 10–15 minute video recording. The slides emphasize visuals and high-level insights from the paper.
 
 ### 3. Video Presentation
 
-- **Link:** [YouTube Video](#)
+- **Link:** [YouTube Video](https://youtu.be/8yKBuL4tgFw)
 - **Overview:** A recorded video presentation that explains the paper and its relevance to data mining, clustering, and dimensionality reduction in an accessible and engaging manner.
