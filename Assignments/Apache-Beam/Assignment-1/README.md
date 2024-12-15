@@ -14,5 +14,5 @@ This assignment demonstrates a complete EDA using the Earthquake dataset from Ka
 
 ### **Links**
 
-- **YouTube Demo**: [Watch Demo Here](https://youtube.com/your-demo-link)
+- **YouTube Demo**: [Watch Demo Here](https://youtu.be/w2gsrnzW5r8)
 - **Colab Notebook**: [View Colab Here](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/Apache-Beam/Assignment-1/Earthquake_EDA_with_D3.ipynb)
