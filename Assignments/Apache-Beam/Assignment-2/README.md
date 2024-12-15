@@ -11,5 +11,5 @@ This assignment uses the **FIFA 21 Complete Player Dataset** for Auto EDA. The *
 
 ### **Links**
 
-- **YouTube Demo**: [Watch Demo Here](https://youtu.be/w2gsrnzW5r8)
+- **YouTube Demo**: [Watch Demo Here](https://youtu.be/w2gsrnzW5r8?t=359)
 - **Colab Notebook**: [View Colab Here](https://colab.research.google.com/github/pruthvik-sheth/CMPE-255-Data-Mining/blob/main/Assignments/Apache-Beam/Assignment-2/EDA_with_AutoEDA.ipynb)
