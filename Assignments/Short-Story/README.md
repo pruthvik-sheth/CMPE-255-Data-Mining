@@ -15,7 +15,7 @@
 
 ### 2. Slide Presentation
 
-- **Link:** [Slideshare Presentation](https://www.slideshare.net/slideshow/distributional-reduction-unifying-dimensionality-reduction-and-clustering/274045513)
+- **Link:** [Slideshare Presentation](https://www.slideshare.net/slideshow/distributional-reduction-unifying-dimensionality-reduction-and-clustering-d489/274093326)
 - **Overview:** A concise presentation covering the core ideas of the research, designed for a 10–15 minute video recording. The slides emphasize visuals and high-level insights from the paper.
 
 ### 3. Video Presentation
